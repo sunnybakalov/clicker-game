@@ -1,5 +1,4 @@
 import React from "react";
-import nba from "../images/nba.png"
 
 class Jumbotron extends React.Component {
 
@@ -11,7 +10,7 @@ class Jumbotron extends React.Component {
                 <h1>Clicker Game</h1>
                 <h5>Click on an image to earn points, but don't click on any more than once!</h5>
                 <hr/>
-                <span><strong> Score: 0 | Top Score: 0 </strong></span>
+                <span><strong> Score: {this.props.score} | Top Score: {this.props.topScore} </strong></span>
             </div>
         );
     }

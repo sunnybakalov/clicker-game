@@ -1,12 +1,15 @@
-html {
-  background: #fff;
+html,
+.pictures {
+  background: #e5e7e9;
 }
 
 .jumbotron,
 .footer {
-  background: rgb(170, 236, 214);
+  background: #244385;
   text-align: center;
+  color: #ffffff;
   box-shadow: 8px 8px 30px 8px rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.1);
+  font-family: 'Righteous', cursive;
 }
 
 .jumbotron {
@@ -22,6 +25,11 @@ html {
   width: 100%;
   height: 4rem;
   padding-top: 1rem;
+}
+
+.pictures {
+  text-align: center;
+  padding-top: 4rem;
 }
 
 /* .pictures {
@@ -40,6 +48,6 @@ html {
 }
 
 img {
-  width: 160px;
-  height: 160px;
+  width: 140px;
+  height: 140px;
 }
