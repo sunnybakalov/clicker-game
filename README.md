@@ -4,6 +4,8 @@
 <img align="center" src="./public/images/page.png" width="100%"/>
 </p>
 
+<!-- test -->
+
 ## SUMMARY
 How good is your memory?
 Find out by testing it with this React clicker game! 
