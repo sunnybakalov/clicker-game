@@ -1,8 +1,8 @@
 {
-  "homepage": "http://sunnybakalov.github.io/clicker-game",
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://sunnybakalov.github.io/clicker-game",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
